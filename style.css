@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 98vh;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.page {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    text-align: center
+}
+
+.video {
+    margin: auto;
+    width: 60%;
+    height: 60%;
+}
+
+/*body {
+    font-family: 'Roboto Condensed', sans-serif;
+}*/
